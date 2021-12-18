@@ -2,7 +2,7 @@
 
 ## :speech_balloon: About Me
 
-- :mortar_board: &nbsp; Degree in Software Engineering Degree at Instituto Superior de Engenharia do Porto.
+- :mortar_board: &nbsp; Degree in Software Engineering at Instituto Superior de Engenharia do Porto.
 - :book: &nbsp; Cisco Incubator 8.0 Participant.
 - 📶 &nbsp; I'm CCNA, CEH, Cisco DevNet and AWS Solutions Architect Certified.
 - 💼 &nbsp; Cloud Engineer / DevSecOps
