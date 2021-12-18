@@ -2,10 +2,9 @@
 
 ## :speech_balloon: About Me
 
-- :mortar_board: Currently, I'm taking a Master in Critical Computing Systems Engineering at Instituto Superior de Engenharia do Porto.
-- :mortar_board: Degree in Software Engineering Degree at Instituto Superior de Engenharia do Porto.
-- :book: Cisco Incubator 8.0 Participant.
-- 📶 I'm CCNA, CEH and Cisco DevNet Certified.
-- 💼 Security Engineer.
+- :mortar_board: &nbsp; Degree in Software Engineering Degree at Instituto Superior de Engenharia do Porto.
+- :book: &nbsp; Cisco Incubator 8.0 Participant.
+- 📶 &nbsp; I'm CCNA, CEH, Cisco DevNet and AWS Solutions Architect Certified.
+- 💼 &nbsp; Cloud Engineer / DevSecOps
 
 ![Ruben's github stats](https://github-readme-stats.vercel.app/api?username=rubenandre&show_icons=true&theme=dracula)
